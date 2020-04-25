@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ecommerece"
+    }
+  },
+  "defaultProject": "angular-ecommerece",
+  "cli": {
+    "analytics": "5f3ae4ad-1890-41a0-a3f0-ffe612c6487a"
+  }
 }
